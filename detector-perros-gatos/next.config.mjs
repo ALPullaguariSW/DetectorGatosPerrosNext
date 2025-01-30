@@ -1,6 +1,5 @@
-/** @type {import('next').NextConfig} */
 const nextConfig = {
-  basePath: '/detector-perros-gatos',  // Ruta de la subcarpeta
+  reactStrictMode: true,
 };
 
 export default nextConfig;
